@@ -91,3 +91,11 @@ export  $initHighlight;
 | ------ | -------- | --------- |
 | Maxi | Burgos | 1213123 |
 | Tomas  | Pedro    | 121231231 |
+
+# CITAS
+Esto es un texto refetente a una cita que pondremos debajo:
+> Esto es una cita
+
+Esto es otro texto que no se relaciona con a cita anterior.
+
+> Esto es otra cita, lo importante de las citas es que tenga un espacio para poder poner otra o pone texto que no pertenece a la cita.
