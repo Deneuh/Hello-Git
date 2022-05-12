@@ -39,3 +39,6 @@ Underline 2
 - <a href="https://www.google.com.mx">Esto es un link HTML</a>
 - [Esto es un link en Markdown](https://www.google.com.mx)
 - [Esto es un link en Markdown al index](index.html)
+
+# IMAGEN
+![Logo Github](https://miracomosehace.com/wp-content/uploads/2020/07/icono-de-github.jpg)
