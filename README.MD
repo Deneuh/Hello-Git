@@ -13,5 +13,8 @@ Underline 1
 Underline 2
 ===========
 
-- letra *italica* de la primer forma.
-- letra _italica_ de la segunda forma.
+- formato letra *italica* de la primer forma.
+- formato letra _italica_ de la segunda forma.
+
+- formato letra **bold o strong** de la primer forma.
+- formato letra __bold o strong__ de la segunda forma.
