@@ -34,3 +34,8 @@ Underline 2
 - Esto es un item de lista desordenada.
 - Esto es un item de lista desordenada.
 - Esto es un item de lista desordenada.
+
+# LINKS
+- <a href="https://www.google.com.mx">Esto es un link HTML</a>
+- [Esto es un link en Markdown](https://www.google.com.mx)
+- [Esto es un link en Markdown al index](index.html)
