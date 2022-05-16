@@ -99,3 +99,16 @@ Esto es un texto refetente a una cita que pondremos debajo:
 Esto es otro texto que no se relaciona con a cita anterior.
 
 > Esto es otra cita, lo importante de las citas es que tenga un espacio para poder poner otra o pone texto que no pertenece a la cita.
+
+# Lienas Divisoras
+Esto es un texto que sera dividido por guiones medios.
+
+---
+
+Esto es otro texto dividido por asteriscos.
+
+***
+
+Esto es otro texto divido por guiones bajos.
+
+___
