@@ -100,7 +100,7 @@ Esto es otro texto que no se relaciona con a cita anterior.
 
 > Esto es otra cita, lo importante de las citas es que tenga un espacio para poder poner otra o pone texto que no pertenece a la cita.
 
-# Lienas Divisoras
+# LINEAS DIVISORAS
 Esto es un texto que sera dividido por guiones medios.
 
 ---
@@ -112,3 +112,12 @@ Esto es otro texto dividido por asteriscos.
 Esto es otro texto divido por guiones bajos.
 
 ___
+
+# SALTOS DE LINEA
+
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
+
+Esto es nuestro tercer parrafo.
+Los saltos de linea se dan con enter.
